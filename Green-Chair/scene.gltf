@@ -238,13 +238,13 @@
   ],
   "images": [
     {
-      "uri": "textures/FLOOR_baseColor.png"
+      "uri": "FLOOR_baseColor.png"
     },
     {
-      "uri": "textures/SEAT_baseColor.jpeg"
+      "uri": "SEAT_baseColor.jpeg"
     },
     {
-      "uri": "textures/SEAT_metallicRoughness.png"
+      "uri": "SEAT_metallicRoughness.png"
     }
   ],
   "materials": [
